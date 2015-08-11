@@ -1,0 +1,14 @@
+@charset "UTF-8";
+
+// 共通カラー定義
+$color-text: #686868;
+$color-blue: #3b5998;
+
+body {
+    font-size: 14px;
+    color: $color-text;
+    a {
+        text-decoration: none;
+        color: $color-blue;
+    }
+}
