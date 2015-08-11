@@ -3,6 +3,9 @@
   "devDependencies": {
     "browser-sync": "^2.7.3",
     "gulp": "^3.8.11",
+    "gulp-concat": "^2.6.0",
+    "gulp-jshint": "^1.11.2",
+    "gulp-notify": "^2.2.0",
     "gulp-sass": "^2.0.1",
     "jade": "^1.9.2"
   },
